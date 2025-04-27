@@ -1,0 +1,339 @@
+PDB_ID,PDB_EC,PDB_Description,Mutation_Count,Mutations_Code
+1A2W,Error
+1A5P,3.1.27.5,RIBONUCLEASE A,2,"C40A, C95A"
+1A5Q,3.1.27.5,RIBONUCLEASE A,1,P93A
+1AFK,Error
+1AFL,Error
+1AFU,Error
+1AQP,Error
+1B6V,3.1.27.5,RIBONUCLEASE,7,"Q55K, N62K, A64T, Y76K, S80R, E111G, N113K"
+1BEL,Error
+1BZQ,Error
+1C0B,Error
+1C0C,Error
+1C8W,Error
+1C9V,3.1.27.5,RIBONUCLEASE A,1,H12A
+1C9X,Error
+1CJQ,Error
+1CJR,Error
+1D5D,Error
+1D5E,Error
+1D5H,Error
+1DFJ,Error
+1DY5,3.1.27.5,RIBONUCLEASE A,0,YES
+1EIC,3.1.27.5,RIBONUCLEASE A,1,F120A
+1EID,3.1.27.5,RIBONUCLEASE A,1,F120G
+1EIE,3.1.27.5,RIBONUCLEASE A,1,F120W
+1EOS,Error
+1EOW,Error
+1F0V,Error
+1FEV,Error
+1FS3,Error
+1GV7,3.1.27.5,ANGIOGENIN,0,YES
+1IZP,3.1.27.5,RIBONUCLEASE A,1,F46L
+1IZQ,3.1.27.5,RIBONUCLEASE A,1,F46V
+1IZR,3.1.27.5,RIBONUCLEASE A,1,F46A
+1J7Z,Error
+1J80,Error
+1J81,Error
+1J82,Error
+1JN4,Error
+1JS0,Error
+1JVT,Error
+1JVU,Error
+1JVV,Error
+1KF2,Error
+1KF3,Error
+1KF4,Error
+1KF5,Error
+1KF7,Error
+1KF8,Error
+1KH8,3.1.27.5,pancreatic ribonuclease A,1,P114G
+1LSQ,Error
+1O0F,Error
+1O0H,Error
+1O0M,Error
+1O0N,Error
+1O0O,Error
+1QHC,Error
+1RAR,Error
+1RAS,Error
+1RAT,Error
+1RBB,Error
+1RBC,Error
+1RBD,Error
+1RBE,Error
+1RBF,Error
+1RBG,Error
+1RBH,Error
+1RBI,Error
+1RBJ,Error
+1RBN,Error
+1RBW,Error
+1RBX,Error
+1RCA,Error
+1RCN,Error
+1RHA,Error
+1RHB,Error
+1RNC,Error
+1RND,Error
+1RNM,Error
+1RNN,Error
+1RNO,Error
+1RNQ,Error
+1RNU,Error
+1RNV,Error
+1RNW,Error
+1RNX,Error
+1RNY,Error
+1RNZ,Error
+1ROB,Error
+1RPF,Error
+1RPG,Error
+1RPH,Error
+1RSM,Error
+1RTA,Error
+1RTB,Error
+1RUV,Error
+1SRN,Error
+1SSA,Error
+1SSB,Error
+1SSC,Error
+1U1B,Error
+1UN5,3.1.27.5,ANGIOGENIN,0,YES
+1W4O,Error
+1W4P,Error
+1W4Q,Error
+1WBU,Error
+1XPS,Error
+1XPT,Error
+1YMN,3.1.27.5,Ribonuclease pancreatic,1,Y92L
+1YMR,3.1.27.5,Ribonuclease pancreatic,1,Y92A
+1YMW,3.1.27.5,Ribonuclease pancreatic,1,Y92G
+1Z3L,3.1.27.5,"Ribonuclease pancreatic, S-Peptide",2,"F8AA3, M13NLE"
+1Z3M,3.1.27.5,"Ribonuclease pancreatic, S-Peptide",2,"F8NVA, M13NLE"
+1Z3P,3.1.27.5,"Ribonuclease pancreatic, S-Peptide",1,M13NVA
+1Z6D,Error
+1Z6S,Error
+2AAS,Error
+2APQ,3.1.27.5,Ribonuclease,1,H119A - GQ10G expansion between G112 and N113
+2BLP,Error
+2BLZ,Error
+2E33,Error
+2E3W,Error
+2G4W,Error
+2G4X,Error
+2G8Q,Error
+2G8R,Error
+2NUI,3.1.27.5,Ribonuclease pancreatic,1,D83A
+2OP2,3.1.27.5,Ribonuclease pancreatic,2,"V43C, R85C"
+2OQF,3.1.27.5,Ribonuclease pancreatic,2,"N71K(Ade), D83A"
+2P42,Error
+2P43,Error
+2P44,Error
+2P45,Error
+2P46,Error
+2P47,Error
+2P48,Error
+2P49,Error
+2P4A,Error
+2QCA,Error
+2RAT,Error
+2RLN,Error
+2RNS,Error
+2W5G,Error
+2W5I,Error
+2W5K,Error
+2W5L,Error
+2W5M,Error
+2XOG,Error
+2XOI,Error
+3A1R,Error
+3D6O,Error
+3D6P,Error
+3D6Q,Error
+3D7B,Error
+3D8Y,Error
+3D8Z,Error
+3DH5,Error
+3DH6,3.1.27.5,Ribonuclease pancreatic,1,V47A
+3DI7,3.1.27.5,Ribonuclease pancreatic,1,V54A
+3DI8,3.1.27.5,Ribonuclease pancreatic,1,V57A
+3DI9,3.1.27.5,Ribonuclease pancreatic,1,I81A
+3DIB,3.1.27.5,Ribonuclease pancreatic,1,I106A
+3DIC,3.1.27.5,Ribonuclease pancreatic,1,V108A
+3DXG,Error
+3DXH,Error
+3EUX,Error
+3EUY,Error
+3EUZ,Error
+3EV0,Error
+3EV1,Error
+3EV2,Error
+3EV3,Error
+3EV4,Error
+3EV5,Error
+3EV6,Error
+3FKZ,3.1.27.5,Ribonuclease pancreatic,6,"S16G, T17N, A19P, A20S, K31C, S32C"
+3FL0,3.1.27.5,Ribonuclease pancreatic,3,"Q28L, K31C, S32C"
+3FL1,3.1.27.5,Ribonuclease pancreatic,4,"A19P, Q28L, K31C, S32C"
+3FL3,3.1.27.5,Ribonuclease pancreatic,4,"A19P, Q28L, K31C, S32C"
+3I67,Error
+3I6F,Error
+3I6H,Error
+3I6J,Error
+3I7W,Error
+3I7X,3.1.27.5,Ribonuclease pancreatic,1,I106A
+3I7Y,3.1.27.5,Ribonuclease pancreatic,1,I106A
+3JW1,Error
+3LXO,Error
+3MWQ,Error
+3MWR,Error
+3MX8,Error
+3MZQ,Error
+3MZR,Error
+3OQY,Error
+3OQZ,Error
+3OR0,Error
+3QL1,3.1.27.5,Ribonuclease pancreatic,3,"A4C, D83E, V118C"
+3QL2,3.1.27.5,Ribonuclease pancreatic,3,"A4C, D83E, V118C"
+3QSK,Error
+3RAT,Error
+3RH1,3.1.27.5,Ribonuclease pancreatic,1,P114A
+3RID,3.1.27.5,Ribonuclease pancreatic,1,P114A
+3RN3,Error
+3RSD,3.1.27.5,RIBONUCLEASE A,1,D121N
+3RSK,3.1.27.5,RIBONUCLEASE A,3,"K7A, R10A, K66A"
+3RSP,3.1.27.5,RIBONUCLEASE A,1,P93G
+3SRN,Error
+4AO1,Error
+4G8V,Error
+4G8Y,Error
+4G90,Error
+4J5Z,Error
+4J60,Error
+4J61,Error
+4J62,Error
+4J63,Error
+4J64,Error
+4J65,Error
+4J66,Error
+4J67,Error
+4J68,Error
+4J69,Error
+4J6A,Error
+4K7L,3.1.27.5,Ribonuclease pancreatic,2,"K7C, Q11C"
+4K7M,3.1.27.5,Ribonuclease pancreatic,2,"K7C, Q11C"
+4L55,Error
+4MXF,Error
+4O36,3.1.27.5,"Ribonuclease pancreatic, S-peptide",3,"K7H, R10Q, Q11H"
+4O37,3.1.27.5,"Ribonuclease pancreatic, S-peptide",3,"K7-> 3Pl, Q11-> 3Pl, M13 -> Nle"
+4OKF,3.1.27.5,Ribonuclease pancreatic,2,"A6(DHA), M13(NLE)"
+4OOH,Error
+4OT4,Error
+4PEQ,Error
+4POU,Error
+4QH3,Error
+4RAT,Error
+4RSD,3.1.27.5,RIBONUCLEASE A,1,D121A
+4RSK,3.1.27.5,RIBONUCLEASE A,3,"K7A, R10A, K66A"
+4RTE,Error
+4S0Q,Error
+4S18,Error
+4SRN,Error
+4WYN,3.1.27.5,Ribonuclease pancreatic,1,A109G
+4WYP,3.1.27.5,Ribonuclease pancreatic,1,A109G
+4WYZ,3.1.27.5,Ribonuclease pancreatic,1,A109G
+4YGW,Error
+4ZZ4,Error
+5D6U,Error
+5D97,Error
+5E5E,Error
+5E5F,Error
+5ET4,3.1.27.5,Ribonuclease pancreatic,2,"K7H, R10H"
+5JLG,Error
+5JMG,Error
+5JML,Error
+5NA9,Error
+5NJ7,Error
+5OBC,Error
+5OBD,Error
+5OBE,Error
+5OGH,Error
+5OLD,Error
+5RAT,Error
+5RSA,Error
+6ETK,Error
+6ETL,Error
+6ETM,Error
+6ETN,Error
+6ETO,Error
+6ETP,Error
+6ETQ,Error
+6ETR,Error
+6F60,Error
+6GOK,Error
+6PVU,Error
+6PVV,Error
+6PVW,Error
+6PVX,Error
+6QE9,Error
+6RAT,Error
+6RSA,Error
+6XHC,Error
+6XHD,Error
+6XHE,Error
+6XHF,Error
+6XVX,Error
+6XW0,Error
+6YO1,Error
+7P4R,Error
+7P8R,Error
+7PNI,Error
+7Q75,Error
+7Q76,Error
+7Q77,Error
+7Q78,Error
+7Q79,Error
+7Q7A,Error
+7Q7B,Error
+7QHR,Error
+7QPW,Error
+7QPY,Error
+7QPZ,Error
+7QQ0,Error
+7QWH,Error
+7R1P,Error
+7RAT,Error
+7RSA,Error
+7Z6D,Error
+7Z6G,Error
+8C3B,Error
+8FHM,Error
+8GC9,Error
+8GGG,Error
+8OQC,Error
+8OQD,Error
+8OQE,Error
+8OQF,Error
+8OQG,Error
+8PX0,Error
+8R5V,Error
+8RAT,Error
+8RSA,Error
+8S96,Error
+8UAX,Error
+8UAY,Error
+8UAZ,Error
+8UB0,Error
+8UB1,Error
+8UB2,Error
+9EO5,Error
+9EO8,Error
+9FYW,Error
+9GF9,Error
+9GYS,Error
+9JWD,Error
+9JWH,Error
+9RAT,Error
+9RSA,Error

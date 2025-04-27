@@ -1,0 +1,339 @@
+PDB_ID,PDB_Description,Mutation_Count
+1A2W,RIBONUCLEASE A,0
+1A5P,RIBONUCLEASE A,2
+1A5Q,RIBONUCLEASE A,1
+1AFK,RIBONUCLEASE A,0
+1AFL,RIBONUCLEASE A,0
+1AFU,RIBONUCLEASE A,0
+1AQP,RIBONUCLEASE A,0
+1B6V,RIBONUCLEASE,7
+1BEL,RIBONUCLEASE A,0
+1BZQ,PROTEIN (RNASE A),0
+1C0B,RIBONUCLEASE A,0
+1C0C,RIBONUCLEASE A,0
+1C8W,PROTEIN (Ribonuclease A),1
+1C9V,RIBONUCLEASE A,1
+1C9X,RIBONUCLEASE A,1
+1CJQ,PROTEIN (RIBONUCLEASE S),0
+1CJR,PROTEIN (RIBONUCLEASE S),0
+1D5D,S PEPTIDE,1
+1D5E,S PEPTIDE,1
+1D5H,S PEPTIDE,1
+1DFJ,RIBONUCLEASE A,0
+1DY5,RIBONUCLEASE A,0
+1EIC,RIBONUCLEASE A,1
+1EID,RIBONUCLEASE A,1
+1EIE,RIBONUCLEASE A,1
+1EOS,RIBONUCLEASE PANCREATIC,0
+1EOW,RIBONUCLEASE PANCREATIC,0
+1F0V,5'-D(*CP*G)-3',0
+1FEV,S PEPTIDE,2
+1FS3,Ribonuclease A,0
+1GV7,ANGIOGENIN,0
+1IZP,RIBONUCLEASE A,1
+1IZQ,RIBONUCLEASE A,1
+1IZR,RIBONUCLEASE A,1
+1J7Z,RIBONUCLEASE PANCREATIC,1
+1J80,RIBONUCLEASE PANCREATIC,1
+1J81,RIBONUCLEASE PANCREATIC,1
+1J82,RIBONUCLEASE PANCREATIC,1
+1JN4,Pancreatic Ribonuclease A,0
+1JS0,RIBONUCLEASE A,0
+1JVT,RIBONUCLEASE A,0
+1JVU,RIBONUCLEASE A,0
+1JVV,RIBONUCLEASE A,0
+1KF2,pancreatic ribonuclease,0
+1KF3,pancreatic ribonuclease,0
+1KF4,pancreatic ribonuclease,0
+1KF5,pancreatic ribonuclease,0
+1KF7,pancreatic ribonuclease,0
+1KF8,pancreatic ribonuclease,0
+1KH8,pancreatic ribonuclease A,1
+1LSQ,RIBONUCLEASE A,1
+1O0F,Ribonuclease pancreatic,0
+1O0H,Ribonuclease pancreatic,0
+1O0M,Ribonuclease pancreatic,0
+1O0N,Ribonuclease pancreatic,0
+1O0O,Ribonuclease pancreatic,0
+1QHC,PROTEIN (RIBONUCLEASE A),0
+1RAR,RIBONUCLEASE A,0
+1RAS,RIBONUCLEASE A,0
+1RAT,RIBONUCLEASE A,0
+1RBB,RIBONUCLEASE B,0
+1RBC,RIBONUCLEASE S (S-PEPTIDE),0
+1RBD,RIBONUCLEASE S (S-PEPTIDE),0
+1RBE,RIBONUCLEASE S (S-PEPTIDE),0
+1RBF,RIBONUCLEASE S (S-PEPTIDE),0
+1RBG,RIBONUCLEASE S (S-PEPTIDE),0
+1RBH,RIBONUCLEASE S (S-PEPTIDE),0
+1RBI,RIBONUCLEASE S (S-PEPTIDE),0
+1RBJ,DNA (5'-D(*AP*AP*AP*A)-3'),0
+1RBN,RIBONUCLEASE A,0
+1RBW,RIBONUCLEASE A,0
+1RBX,RIBONUCLEASE A,0
+1RCA,RIBONUCLEASE A,0
+1RCN,DNA (5'-D(*AP*TP*AP*A)-3'),0
+1RHA,RIBONUCLEASE A,0
+1RHB,RIBONUCLEASE A,0
+1RNC,RIBONUCLEASE A,0
+1RND,RIBONUCLEASE A,0
+1RNM,RIBONUCLEASE A,0
+1RNN,RIBONUCLEASE A,0
+1RNO,RIBONUCLEASE A,0
+1RNQ,RIBONUCLEASE A,0
+1RNU,RIBONUCLEASE S,0
+1RNV,RIBONUCLEASE S,0
+1RNW,RIBONUCLEASE A,0
+1RNX,RIBONUCLEASE A,0
+1RNY,RIBONUCLEASE A,0
+1RNZ,RIBONUCLEASE A,0
+1ROB,RIBONUCLEASE A,0
+1RPF,RIBONUCLEASE A,0
+1RPG,RIBONUCLEASE A,0
+1RPH,RIBONUCLEASE A,0
+1RSM,RIBONUCLEASE A,0
+1RTA,DNA (5'-D(*TP*TP*TP*T)-3'),0
+1RTB,RIBONUCLEASE A,0
+1RUV,RIBONUCLEASE A,0
+1SRN,RIBONUCLEASE A,0
+1SSA,RIBONUCLEASE A,0
+1SSB,RIBONUCLEASE A,0
+1SSC,RIBONUCLEASE A,0
+1U1B,"Ribonuclease, pancreatic",0
+1UN5,ANGIOGENIN,0
+1W4O,PANCREATIC RIBONUCLEASE A,0
+1W4P,PANCREATIC RIBONUCLEASE A,0
+1W4Q,PANCREATIC RIBONUCLEASE A,0
+1WBU,RIBONUCLEASE,0
+1XPS,RIBONUCLEASE A,0
+1XPT,RIBONUCLEASE A,0
+1YMN,Ribonuclease pancreatic,1
+1YMR,Ribonuclease pancreatic,1
+1YMW,Ribonuclease pancreatic,1
+1Z3L,"Ribonuclease pancreatic, S-Peptide",2
+1Z3M,"Ribonuclease pancreatic, S-Peptide",2
+1Z3P,"Ribonuclease pancreatic, S-Peptide",1
+1Z6D,Ribonuclease pancreatic,0
+1Z6S,Ribonuclease pancreatic,0
+2AAS,RIBONUCLEASE A,0
+2APQ,Ribonuclease,1
+2BLP,RIBONUCLEASE PANCREATIC PRECURSOR,0
+2BLZ,RIBONUCLEASE PANCREATIC,0
+2E33,F-box only protein 2,0
+2E3W,Ribonuclease pancreatic,0
+2G4W,Ribonuclease pancreatic,0
+2G4X,ribonuclease pancreatic,0
+2G8Q,Ribonuclease pancreatic,0
+2G8R,Ribonuclease pancreatic,0
+2NUI,Ribonuclease pancreatic,1
+2OP2,Ribonuclease pancreatic,2
+2OQF,Ribonuclease pancreatic,2
+2P42,Ribonuclease pancreatic,0
+2P43,Ribonuclease pancreatic,0
+2P44,Ribonuclease pancreatic,0
+2P45,Ribonuclease pancreatic,0
+2P46,Ribonuclease pancreatic,0
+2P47,Ribonuclease pancreatic,0
+2P48,Ribonuclease pancreatic,0
+2P49,Ribonuclease pancreatic,0
+2P4A,Ribonuclease pancreatic,0
+2QCA,Ribonuclease pancreatic,0
+2RAT,RIBONUCLEASE A,0
+2RLN,RIBONUCLEASE,0
+2RNS,RIBONUCLEASE S,0
+2W5G,RIBONUCLEASE PANCREATIC,0
+2W5I,RIBONUCLEASE PANCREATIC,0
+2W5K,RIBONUCLEASE PANCREATIC,0
+2W5L,RIBONUCLEASE PANCREATIC,0
+2W5M,RIBONUCLEASE PANCREATIC,0
+2XOG,RIBONUCLEASE PANCREATIC,0
+2XOI,RIBONUCLEASE PANCREATIC,0
+3A1R,Ribonuclease pancreatic,0
+3D6O,Ribonuclease pancreatic,0
+3D6P,Ribonuclease pancreatic,0
+3D6Q,Ribonuclease pancreatic,0
+3D7B,Ribonuclease pancreatic,0
+3D8Y,Ribonuclease pancreatic,0
+3D8Z,Ribonuclease pancreatic,0
+3DH5,Ribonuclease pancreatic,0
+3DH6,Ribonuclease pancreatic,1
+3DI7,Ribonuclease pancreatic,1
+3DI8,Ribonuclease pancreatic,1
+3DI9,Ribonuclease pancreatic,1
+3DIB,Ribonuclease pancreatic,1
+3DIC,Ribonuclease pancreatic,1
+3DXG,Ribonuclease pancreatic,0
+3DXH,Ribonuclease pancreatic,0
+3EUX,Ribonuclease pancreatic,0
+3EUY,Ribonuclease pancreatic,0
+3EUZ,Ribonuclease pancreatic,0
+3EV0,Ribonuclease pancreatic,0
+3EV1,Ribonuclease pancreatic,0
+3EV2,Ribonuclease pancreatic,0
+3EV3,Ribonuclease pancreatic,0
+3EV4,Ribonuclease pancreatic,0
+3EV5,Ribonuclease pancreatic,0
+3EV6,Ribonuclease pancreatic,0
+3FKZ,Ribonuclease pancreatic,6
+3FL0,Ribonuclease pancreatic,3
+3FL1,Ribonuclease pancreatic,4
+3FL3,Ribonuclease pancreatic,4
+3I67,Ribonuclease pancreatic,0
+3I6F,Ribonuclease pancreatic,0
+3I6H,Ribonuclease pancreatic,0
+3I6J,Ribonuclease pancreatic,0
+3I7W,Ribonuclease pancreatic,0
+3I7X,Ribonuclease pancreatic,1
+3I7Y,Ribonuclease pancreatic,1
+3JW1,Ribonuclease pancreatic,0
+3LXO,Ribonuclease pancreatic,0
+3MWQ,"Ribonuclease pancreatic, LINKER, Ribonuclease pancreatic",0
+3MWR,"Ribonuclease pancreatic, LINKER, Ribonuclease pancreatic",0
+3MX8,"Ribonuclease pancreatic, LINKER, Ribonuclease pancreatic",0
+3MZQ,Ribonuclease pancreatic,0
+3MZR,Ribonuclease pancreatic,0
+3OQY,Ribonuclease pancreatic,0
+3OQZ,Ribonuclease pancreatic,0
+3OR0,Ribonuclease pancreatic,0
+3QL1,Ribonuclease pancreatic,3
+3QL2,Ribonuclease pancreatic,3
+3QSK,Ribonuclease pancreatic,0
+3RAT,RIBONUCLEASE A,0
+3RH1,Ribonuclease pancreatic,1
+3RID,Ribonuclease pancreatic,1
+3RN3,RIBONUCLEASE A,0
+3RSD,RIBONUCLEASE A,1
+3RSK,RIBONUCLEASE A,3
+3RSP,RIBONUCLEASE A,1
+3SRN,RIBONUCLEASE A,0
+4AO1,RIBONUCLEASE PANCREATIC,0
+4G8V,Ribonuclease pancreatic,0
+4G8Y,Ribonuclease pancreatic,0
+4G90,Ribonuclease pancreatic,0
+4J5Z,Ribonuclease pancreatic,0
+4J60,Ribonuclease pancreatic,0
+4J61,Ribonuclease pancreatic,0
+4J62,Ribonuclease pancreatic,0
+4J63,Ribonuclease pancreatic,0
+4J64,Ribonuclease pancreatic,0
+4J65,Ribonuclease pancreatic,0
+4J66,Ribonuclease pancreatic,0
+4J67,Ribonuclease pancreatic,0
+4J68,Ribonuclease pancreatic,0
+4J69,Ribonuclease pancreatic,0
+4J6A,Ribonuclease pancreatic,0
+4K7L,Ribonuclease pancreatic,2
+4K7M,Ribonuclease pancreatic,2
+4L55,Ribonuclease pancreatic,0
+4MXF,Ribonuclease pancreatic,0
+4O36,"Ribonuclease pancreatic, S-peptide",3
+4O37,"Ribonuclease pancreatic, S-peptide",3
+4OKF,Ribonuclease pancreatic,2
+4OOH,Ribonuclease pancreatic,0
+4OT4,Ribonuclease pancreatic,0
+4PEQ,Ribonuclease pancreatic,0
+4POU,Ribonuclease pancreatic,0
+4QH3,Ribonuclease pancreatic,0
+4RAT,RIBONUCLEASE A,0
+4RSD,RIBONUCLEASE A,1
+4RSK,RIBONUCLEASE A,3
+4RTE,Ribonuclease pancreatic,0
+4S0Q,Ribonuclease pancreatic,0
+4S18,Ribonuclease pancreatic,0
+4SRN,RIBONUCLEASE A,0
+4WYN,Ribonuclease pancreatic,1
+4WYP,Ribonuclease pancreatic,1
+4WYZ,Ribonuclease pancreatic,1
+4YGW,S-peptide: ACE-LYS-GLU-THR-ALA-ALA-HCS-LYS-PHE-GLU-HCS-GLN-HIS-MET-ASP-SER,0
+4ZZ4,Ribonuclease pancreatic,0
+5D6U,Ribonuclease pancreatic,0
+5D97,Ribonuclease pancreatic,0
+5E5E,Ribonuclease pancreatic,0
+5E5F,Ribonuclease pancreatic,0
+5ET4,Ribonuclease pancreatic,2
+5JLG,Ribonuclease pancreatic,0
+5JMG,Ribonuclease pancreatic,0
+5JML,Ribonuclease pancreatic,0
+5NA9,Ribonuclease pancreatic,0
+5NJ7,Ribonuclease pancreatic,0
+5OBC,Ribonuclease pancreatic,0
+5OBD,Ribonuclease pancreatic,0
+5OBE,Ribonuclease pancreatic,0
+5OGH,Ribonuclease pancreatic,0
+5OLD,Ribonuclease pancreatic,0
+5RAT,RIBONUCLEASE A,0
+5RSA,RIBONUCLEASE A,0
+6ETK,Ribonuclease pancreatic,0
+6ETL,Ribonuclease pancreatic,0
+6ETM,Ribonuclease pancreatic,0
+6ETN,Ribonuclease pancreatic,0
+6ETO,Ribonuclease pancreatic,0
+6ETP,Ribonuclease pancreatic,0
+6ETQ,Ribonuclease pancreatic,0
+6ETR,Ribonuclease pancreatic,0
+6F60,Ribonuclease pancreatic,0
+6GOK,Ribonuclease pancreatic,0
+6PVU,Ribonuclease pancreatic,0
+6PVV,Ribonuclease pancreatic,0
+6PVW,Ribonuclease pancreatic,0
+6PVX,Ribonuclease pancreatic,0
+6QE9,Ribonuclease pancreatic,0
+6RAT,RIBONUCLEASE A,0
+6RSA,RIBONUCLEASE A,0
+6XHC,Ribonuclease pancreatic,0
+6XHD,Ribonuclease pancreatic,0
+6XHE,Ribonuclease pancreatic,0
+6XHF,Ribonuclease pancreatic,0
+6XVX,Ribonuclease pancreatic,0
+6XW0,Ribonuclease pancreatic,0
+6YO1,Ribonuclease pancreatic,0
+7P4R,Ribonuclease pancreatic,0
+7P8R,Ribonuclease pancreatic,0
+7PNI,Ribonuclease pancreatic,0
+7Q75,Ribonuclease pancreatic,0
+7Q76,Ribonuclease pancreatic,0
+7Q77,Ribonuclease pancreatic,0
+7Q78,Ribonuclease pancreatic,0
+7Q79,Ribonuclease pancreatic,0
+7Q7A,Ribonuclease pancreatic,0
+7Q7B,Ribonuclease pancreatic,0
+7QHR,Ribonuclease pancreatic,0
+7QPW,Ribonuclease pancreatic,0
+7QPY,Ribonuclease pancreatic,0
+7QPZ,Ribonuclease pancreatic,0
+7QQ0,Ribonuclease pancreatic,0
+7QWH,Ribonuclease pancreatic,0
+7R1P,Ribonuclease pancreatic,0
+7RAT,RIBONUCLEASE A,0
+7RSA,RIBONUCLEASE A,0
+7Z6D,Ribonuclease pancreatic,0
+7Z6G,Ribonuclease pancreatic,0
+8C3B,Ribonuclease pancreatic,0
+8FHM,Ribonuclease pancreatic,0
+8GC9,Ribonuclease pancreatic,0
+8GGG,Ribonuclease pancreatic,0
+8OQC,Ribonuclease pancreatic,0
+8OQD,Ribonuclease pancreatic,0
+8OQE,Ribonuclease pancreatic,0
+8OQF,Ribonuclease pancreatic,0
+8OQG,Ribonuclease pancreatic,0
+8PX0,Ribonuclease pancreatic,0
+8R5V,Ribonuclease pancreatic,0
+8RAT,RIBONUCLEASE A,0
+8RSA,RIBONUCLEASE A,0
+8S96,Ribonuclease pancreatic,0
+8UAX,Ribonuclease pancreatic,0
+8UAY,Ribonuclease pancreatic,0
+8UAZ,Ribonuclease pancreatic,0
+8UB0,Ribonuclease pancreatic,0
+8UB1,Ribonuclease pancreatic,0
+8UB2,Ribonuclease pancreatic,0
+9EO5,Ribonuclease pancreatic,0
+9EO8,Ribonuclease pancreatic,0
+9FYW,Ribonuclease pancreatic,0
+9GF9,Ribonuclease pancreatic,0
+9GYS,Ribonuclease pancreatic,0
+9JWD,Ribonuclease pancreatic,0
+9JWH,Ribonuclease pancreatic,0
+9RAT,RIBONUCLEASE A,0
+9RSA,RIBONUCLEASE A,0
